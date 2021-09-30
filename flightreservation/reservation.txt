@@ -1,0 +1,365 @@
+insert into flight values(1,'KF1','Kingfisher','DEL',
+'LKO',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 03:14:07');
+
+insert into flight values(2,'AA2','Air India','DEL',
+'HYD',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 03:27:12');
+
+insert into flight values(3,'IG3','IndiGO','DEL',
+'HYD',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 04:00:00');
+
+insert into flight values(4,'SP4','SpiceJet','DEL',
+'BLR',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 05:25:00');
+
+insert into flight values(5,'VT5','Vistara','DEL',
+'CHN',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 06:55:00');
+
+insert into flight values(6,'GA6','GoAir','DEL',
+'CHN',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 07:15:00');
+
+insert into flight values(7,'AS7','Air Aisa','DEL',
+'SRT',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 08:30:00');
+
+insert into flight values(8,'KF8','Kingfisher','DEL',
+'AHM',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 09:14:07');
+
+insert into flight values(9,'AA9','Air India','DEL',
+'PUN',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 10:27:12');
+
+insert into flight values(10,'IG10','IndiGO','DEL',
+'MUM',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 11:00:00');
+
+insert into flight values(11,'SP11','SpiceJet','DEL',
+'MUM',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 12:25:00');
+
+insert into flight values(12,'VT12','Vistara','DEL',
+'PUN',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 13:55:00');
+
+insert into flight values(14,'GA13','GoAir','MUM',
+'LKO',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 14:15:00');
+
+insert into flight values(15,'AS14','Air Aisa','PUN',
+'LKO',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 15:30:00');
+
+
+
+
+
+insert into flight values(16,'KF1','Kingfisher','LKO',
+'DEL',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 16:14:07');
+
+insert into flight values(17,'AA2','Air India','PUN',
+'MUM',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 17:27:12');
+
+insert into flight values(18,'IG3','IndiGO','CHN',
+'LKO',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 18:00:00');
+
+insert into flight values(19,'SP4','SpiceJet','LKO',
+'CHN',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 18:25:00');
+
+insert into flight values(20,'VT5','Vistara','DEL',
+'GHW',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 19:55:00');
+
+insert into flight values(21,'GA6','GoAir','KOL',
+'MUM',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 20:15:00');
+
+insert into flight values(22,'AS7','Air Aisa','DEL',
+'KOL',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 22:30:00');
+
+insert into flight values(23,'KF8','Kingfisher','KOL',
+'PUN',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 23:14:07');
+
+insert into flight values(24,'AA9','Air India','KOL',
+'MUM',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 00:27:12');
+
+insert into flight values(25,'IG10','IndiGO','MUM',
+'CHN',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 23:00:00');
+
+insert into flight values(26,'SP11','SpiceJet','CHN',
+'DEL',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 23:25:00');
+
+insert into flight values(27,'VT12','Vistara','CHN',
+'GHW',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 02:55:00');
+
+insert into flight values(28,'GA13','GoAir','AHM',
+'PUN',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 00:15:00');
+
+insert into flight values(29,'AS14','Air Aisa','AHM',
+'MUM',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 01:00:00');
+
+
+insert into flight values(1,'KF1','Kingfisher','PUN',
+'HYD',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 03:14:07');
+
+insert into flight values(2,'AA2','Air India','MUM',
+'HYD',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 03:27:12');
+
+insert into flight values(3,'IG3','IndiGO','HYD',
+'DEL',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 04:00:00');
+
+insert into flight values(4,'SP4','SpiceJet','HYD',
+'CHN',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 05:25:00');
+
+insert into flight values(5,'VT5','Vistara','HYD',
+'PUN',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 06:55:00');
+
+insert into flight values(6,'GA6','GoAir','HYD',
+'MUM',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 07:15:00');
+
+insert into flight values(7,'AS7','Air Aisa','MUM',
+'HYD',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 08:30:00');
+
+insert into flight values(8,'KF8','Kingfisher','HYD',
+'AHM',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 09:14:07');
+
+insert into flight values(9,'AA9','Air India','STR',
+'HYD',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 10:27:12');
+
+insert into flight values(10,'IG10','IndiGO','DEL',
+'KAS',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 11:00:00');
+
+insert into flight values(11,'SP11','SpiceJet','PUN',
+'KAS',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 12:25:00');
+
+insert into flight values(12,'VT12','Vistara','MUM',
+'KAS',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 13:55:00');
+
+insert into flight values(14,'GA13','GoAir','KAS',
+'MUM',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 14:15:00');
+
+insert into flight values(15,'AS14','Air Aisa','KAS',
+'PUN',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 15:30:00');
+
+
+
+
+
+insert into flight values(16,'KF1','Kingfisher','KAS',
+'HYD',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 16:14:07');
+
+insert into flight values(17,'AA2','Air India','KAS',
+'AHM',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 17:27:12');
+
+insert into flight values(18,'IG3','IndiGO','AHM',
+'KAS',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 18:00:00');
+
+insert into flight values(19,'SP4','SpiceJet','HYD',
+'KAS',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 18:25:00');
+
+insert into flight values(20,'VT5','Vistara','BHW',
+'LKO',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 19:55:00');
+
+insert into flight values(21,'GA6','GoAir','LKO',
+'BHW',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 20:15:00');
+
+insert into flight values(22,'AS7','Air Aisa','PUN',
+'BHW',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 22:30:00');
+
+insert into flight values(23,'KF8','Kingfisher','BHW',
+'PUN',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 23:14:07');
+
+insert into flight values(24,'AA9','Air India','BHW',
+'HYD',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 00:27:12');
+
+insert into flight values(25,'IG10','IndiGO','HYD',
+'BHW',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 23:00:00');
+
+insert into flight values(26,'SP11','SpiceJet','KAS',
+'BHW',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 23:25:00');
+
+insert into flight values(27,'VT12','Vistara','KAS',
+'KAS',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 02:55:00');
+
+insert into flight values(28,'GA13','GoAir','DEL',
+'BHW',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 00:15:00');
+
+insert into flight values(29,'AS14','Air Aisa','BHW',
+'DEL',STR_TO_DATE('05-10-2021','%d-%m-%Y'),'2021-10-05 01:00:00');
+
+---------------------------------------------------------------
+
+
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('KF1','Kingfisher','DEL',
+'LKO',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 03:14:07');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AA2','Air India','DEL',
+'HYD',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 03:27:12');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('IG3','IndiGO','DEL',
+'HYD',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 04:00:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('SP4','SpiceJet','DEL',
+'BLR',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 05:25:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('VT5','Vistara','DEL',
+'CHN',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 06:55:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('GA6','GoAir','DEL',
+'CHN',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 07:15:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AS7','Air Aisa','DEL',
+'SRT',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 08:30:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('KF8','Kingfisher','DEL',
+'AHM',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 09:14:07');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AA9','Air India','DEL',
+'PUN',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 10:27:12');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('IG10','IndiGO','DEL',
+'MUM',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 11:00:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('SP11','SpiceJet','DEL',
+'MUM',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 12:25:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('VT12','Vistara','DEL',
+'PUN',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 13:55:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('GA13','GoAir','MUM',
+'LKO',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 14:15:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AS14','Air Aisa','PUN',
+'LKO',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 15:30:00');
+
+
+
+
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('KF1','Kingfisher','LKO',
+'DEL',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 16:14:07');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AA2','Air India','PUN',
+'MUM',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 17:27:12');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('IG3','IndiGO','CHN',
+'LKO',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 18:00:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('SP4','SpiceJet','LKO',
+'CHN',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 18:25:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('VT5','Vistara','DEL',
+'GHW',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 19:55:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('GA6','GoAir','KOL',
+'MUM',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 20:15:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AS7','Air Aisa','DEL',
+'KOL',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 22:30:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('KF8','Kingfisher','KOL',
+'PUN',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 23:14:07');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AA9','Air India','KOL',
+'MUM',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 00:27:12');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('IG10','IndiGO','MUM',
+'CHN',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 23:00:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('SP11','SpiceJet','CHN',
+'DEL',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 23:25:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('VT12','Vistara','CHN',
+'GHW',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 02:55:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('GA13','GoAir','AHM',
+'PUN',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 00:15:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AS14','Air Aisa','AHM',
+'MUM',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 01:00:00');
+
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('KF1','Kingfisher','PUN',
+'HYD',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 03:14:07');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AA2','Air India','MUM',
+'HYD',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 03:27:12');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('IG3','IndiGO','HYD',
+'DEL',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 04:00:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('SP4','SpiceJet','HYD',
+'CHN',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 05:25:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('VT5','Vistara','HYD',
+'PUN',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 06:55:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('GA6','GoAir','HYD',
+'MUM',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 07:15:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AS7','Air Aisa','MUM',
+'HYD',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 08:30:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('KF8','Kingfisher','HYD',
+'AHM',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 09:14:07');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AA9','Air India','STR',
+'HYD',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 10:27:12');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('IG10','IndiGO','DEL',
+'KAS',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 11:00:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('SP11','SpiceJet','PUN',
+'KAS',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 12:25:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('VT12','Vistara','MUM',
+'KAS',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 13:55:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('GA13','GoAir','KAS',
+'MUM',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 14:15:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AS14','Air Aisa','KAS',
+'PUN',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 15:30:00');
+
+
+
+
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('KF1','Kingfisher','KAS',
+'HYD',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 16:14:07');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AA2','Air India','KAS',
+'AHM',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 17:27:12');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('IG3','IndiGO','AHM',
+'KAS',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 18:00:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('SP4','SpiceJet','HYD',
+'KAS',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 18:25:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('VT5','Vistara','BHW',
+'LKO',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 19:55:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('GA6','GoAir','LKO',
+'BHW',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 20:15:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AS7','Air Aisa','PUN',
+'BHW',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 22:30:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('KF8','Kingfisher','BHW',
+'PUN',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 23:14:07');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('AA9','Air India','BHW',
+'HYD',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 00:27:12');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('IG10','IndiGO','HYD',
+'BHW',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 23:00:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('SP11','SpiceJet','KAS',
+'BHW',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 23:25:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('VT12','Vistara','KAS',
+'KAS',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 02:55:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values('GA13','GoAir','DEL',
+'BHW',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 00:15:00');
+
+insert into flight (flight_number,operating_airlines,departure_city,arrival_city,date_of_departure,estimated_departure_time)values(
+'AS14','Air Aisa','BHW',
+'DEL',STR_TO_DATE('06-10-2021','%d-%m-%Y'),'2021-10-05 01:00:00');
+
+
+
+
+
+
+
